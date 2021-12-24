@@ -1,0 +1,2 @@
+dagit==0.13.12
+demo-repo @ git+https://github.com/GratisData/repo.git
